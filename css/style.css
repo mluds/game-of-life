@@ -1,0 +1,19 @@
+#header {
+    margin-bottom: 20px;
+}
+
+#stage-container {
+    max-width: 680px;
+}
+
+#stage {
+    cursor: pointer;
+}
+
+#controls {
+    max-width: 300px;
+}
+
+#delay-container {
+    margin-bottom: 20px;
+}
